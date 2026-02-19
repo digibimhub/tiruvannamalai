@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "temple": "Temple",
+    "places": "Sacred Places",
+    "calendar": "Purnami Calendar",
+    "girivalam": "Girivalam",
+    "gallery": "Gallery"
+  },
+  "hero": {
+    "title": "Tiruvannamalai",
+    "subtitle": "The Abode of Lord Arunachaleswarar — Where Shiva Manifests as Sacred Fire",
+    "sanskrit": "ॐ नमः शिवाय",
+    "tamil": "திருவண்ணாமலை",
+    "cta": "Explore the Sacred Town"
+  },
+  "temple": {
+    "title": "Arunachaleswarar Temple",
+    "subtitle": "One of the Pancha Bhuta Stalas — The Temple of Agni (Fire)",
+    "history": "History",
+    "historyText": "The Arunachaleswarar Temple is one of the most ancient temples in India, with references in Tamil Sangam literature dating back over 2,000 years. The temple is dedicated to Lord Shiva, who is worshipped here as Arunachaleswarar (Lord of Arunachala hill) with the Goddess Unnamalai Amman. The Arunachala hill itself is considered the embodiment of Lord Shiva — a living lingam of fire.",
+    "significance": "Significance",
+    "significanceText": "Tiruvannamalai is one of the five Pancha Bhuta Stalas — the five sacred abodes of Shiva representing the five elements. This temple represents Agni (Fire). The Arunachala hill is believed to be the form of Shiva himself, and circumambulating it (Girivalam) is considered one of the most sacred acts in Shaivism.",
+    "architecture": "Architecture",
+    "architectureText": "The temple complex covers 25 acres and is one of the largest in India. It features four magnificent gopurams (gateway towers) at the four cardinal directions. The tallest — the Eastern Rajagopuram — soars to 66 meters (217 feet), making it one of the tallest temple towers in the world.",
+    "prakarams": "The Five Prakarams",
+    "darshan": "Darshan Timings",
+    "howToReach": "How to Reach",
+    "fromChennai": "From Chennai (206 km via NH79) — 3.5 hours by road",
+    "fromBangalore": "From Bangalore (198 km via NH75) — 4 hours by road",
+    "fromPondicherry": "From Pondicherry (100 km via Villupuram) — 2 hours by road"
+  },
+  "prakarams": {
+    "first": "Vallala Maharajan Thiruchutru",
+    "second": "Thirumeignanar Thiruchutru",
+    "third": "Amman Thiruchutru",
+    "fourth": "Prithvi Veethi",
+    "fifth": "Thiruvaasal Veethi"
+  },
+  "places": {
+    "title": "Sacred Places",
+    "subtitle": "Explore the spiritual landscape of Tiruvannamalai",
+    "ramana": "Ramana Maharshi Ashram",
+    "ramanaDesc": "Sri Ramanasramam is the ashram of Bhagavan Sri Ramana Maharshi, one of India's most revered sages of the 20th century. Born in 1879, Ramana came to Tiruvannamalai at age 16 and never left. He attained Self-realization at the foot of Arunachala hill and taught the path of self-inquiry (Atma Vichara) until his Mahasamadhi in 1950.",
+    "seshadri": "Seshadri Swamigal Ashram",
+    "seshadriDesc": "Seshadri Swamigal (1870–1929) was a great saint who roamed the streets of Tiruvannamalai in a state of divine ecstasy. His samadhi (tomb) is located here, and the ashram continues to be a place of pilgrimage and spiritual learning.",
+    "virupaksha": "Virupaksha Cave",
+    "virupakshaDesc": "Virupaksha Cave on Arunachala hill was the dwelling place of Sri Ramana Maharshi for 17 years (1899–1916). The cave is named after Virupaksha, a 19th-century saint who also meditated here. Many devotees visit this cave to meditate in the spiritually charged atmosphere.",
+    "skandashramam": "Skandashramam",
+    "skandashramamDesc": "Located higher up on Arunachala hill, above Virupaksha Cave, Skandashramam was Ramana Maharshi's dwelling from 1916 to 1922. The panoramic view of Tiruvannamalai town and the surrounding plains from here is breathtaking.",
+    "arunachala": "Arunachala Hill",
+    "arunachalaDesc": "The sacred Arunachala hill (2682 feet) is considered the very form of Lord Shiva — a self-manifested lingam. The hill is the center of the entire pilgrimage circuit. Devotees circumambulate the hill (Girivalam) on foot, especially on Purnami (full moon) days.",
+    "learnMore": "Learn More"
+  },
+  "calendar": {
+    "title": "Purnami Calendar",
+    "subtitle": "Full moon days — the most auspicious time for Girivalam",
+    "fullMoon": "Full Moon",
+    "karthigaiDeeam": "Karthigai Deepam",
+    "girivalamDay": "Girivalam Day",
+    "selectYear": "Select Year",
+    "purnamiInfo": "Every Purnami (full moon day), hundreds of thousands of devotees perform Girivalam — the sacred 14km circumambulation of Arunachala hill. The most important is Karthigai Deepam, celebrated on the full moon of the Tamil month of Karthigai.",
+    "month": "Month",
+    "date": "Date"
+  },
+  "girivalam": {
+    "title": "Girivalam",
+    "subtitle": "The Sacred 14km Circumambulation of Arunachala",
+    "distance": "14 km",
+    "walkTime": "4–5 hours",
+    "route": "Sacred Route",
+    "routeDesc": "Girivalam (circumambulation of the hill) is one of the most sacred acts in Shaivism. The 14km path encircles the entire Arunachala hill. Along the route are eight shrines dedicated to the eight directional deities (Ashta Dikpalas), each housing a Shiva lingam.",
+    "bestTime": "Best Time: Full moon nights and early mornings",
+    "lingams": {
+      "indra": "Indra Lingam",
+      "agni": "Agni Lingam",
+      "yama": "Yama Lingam",
+      "niruthi": "Niruthi Lingam",
+      "varuna": "Varuna Lingam",
+      "vayu": "Vayu Lingam",
+      "kubera": "Kubera Lingam",
+      "isanya": "Isanya Lingam"
+    },
+    "mapInstructions": "Click on the markers to learn about each sacred lingam along the route"
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Sacred moments from Tiruvannamalai",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "footer": {
+    "tagline": "A sacred pilgrimage destination in Tamil Nadu, India",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "address": "Tiruvannamalai, Tamil Nadu 606601, India",
+    "phone": "+91 4175 252 401",
+    "rights": "All rights reserved",
+    "disclaimer": "This is an informational website. Temple timings may vary on festival days."
+  }
+}
