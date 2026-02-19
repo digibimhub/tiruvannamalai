@@ -10,7 +10,6 @@ import {
   Noto_Sans_Telugu,
   Noto_Sans_Kannada,
 } from 'next/font/google';
-import '../globals.css';
 
 const playfair = Playfair_Display({
   subsets: ['latin'],
@@ -75,15 +74,13 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html
-      lang={locale}
-      className={`${playfair.variable} ${cormorant.variable} ${inter.variable} ${notoTamil.variable} ${notoTelugu.variable} ${notoKannada.variable}`}
-    >
-      <body className="bg-temple-dark text-white font-sans antialiased">
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <NextIntlClientProvider messages={messages}>
+      <div
+        lang={locale}
+        className={`${playfair.variable} ${cormorant.variable} ${inter.variable} ${notoTamil.variable} ${notoTelugu.variable} ${notoKannada.variable} font-sans`}
+      >
+        {children}
+      </div>
+    </NextIntlClientProvider>
   );
 }
